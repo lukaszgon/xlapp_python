@@ -8,6 +8,6 @@ After choosing an excel right file can check any value - if found then colors th
 Files:
 </br>
 
-  <i>xlapp.exe</i> - executable, in xlapp folder - converted with py2exe library 
+  <i>xlapp.exe</i> - executable, in xlapp.rar - converted with py2exe library 
 
   <i>xlapp.py</i> - python script
